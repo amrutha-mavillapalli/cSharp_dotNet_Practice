@@ -1,0 +1,14 @@
+/Users/balakrishna/dotnet-course-code/HelloWorld/bin/Debug/net9.0/HelloWorld
+/Users/balakrishna/dotnet-course-code/HelloWorld/bin/Debug/net9.0/HelloWorld.deps.json
+/Users/balakrishna/dotnet-course-code/HelloWorld/bin/Debug/net9.0/HelloWorld.runtimeconfig.json
+/Users/balakrishna/dotnet-course-code/HelloWorld/bin/Debug/net9.0/HelloWorld.dll
+/Users/balakrishna/dotnet-course-code/HelloWorld/bin/Debug/net9.0/HelloWorld.pdb
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.AssemblyInfo.cs
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.dll
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/refint/HelloWorld.dll
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.pdb
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/HelloWorld.genruntimeconfig.cache
+/Users/balakrishna/dotnet-course-code/HelloWorld/obj/Debug/net9.0/ref/HelloWorld.dll
