@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Practiseprgms/1.0.0": {
+        "runtime": {
+          "Practiseprgms.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practiseprgms/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
